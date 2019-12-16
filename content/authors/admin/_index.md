@@ -1,48 +1,49 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include educational assessment, psychometrics, data science, and test fraud detection.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Educational Assessment
+    institution: University of Twente
+    year: 2016
+  - course: MSc. (Res) Psychology
+    institution: University of Amsterdam
+    year: 2010
+  - course: BSc in Psychology
+    institution: University of Amsterdam
     year: 2008
-email: ""
+email: "s.dklerk@explain.nl"
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-name: Nelson Bighetti
+- Educational assessment
+- Psychometrics
+- Data science
+- Test fraud detection
+name: Sebastiaan de Klerk
 organizations:
-- name: Stanford University
-  url: ""
-role: Professor of Artificial Intelligence
+- name: eX:plain
+  url: "http://www.explain.nl"
+- name: Xquiry
+  url: "http://www.xquiry.com"
+role: Applied Researcher
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
+  link: "s.dklerk@explain.nl"
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/Sebasti65886957
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.nl/citations?user=nUzkoZEAAAAJ&hl=nl
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Sebastiaan1986
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My name is Sebastiaan de Klerk, I am an applied researcher at eX:plain and Xquiry. My main 
+research interests are educational assessment, psychometrics, data science, and test fraud detection
