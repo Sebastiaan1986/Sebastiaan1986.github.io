@@ -13,7 +13,7 @@ education:
   - course: BSc in Psychology
     institution: University of Amsterdam
     year: 2008
-email: "s.dklerk@explain.nl"
+email: "mailto:s.dklerk@explain.nl"
 interests:
 - Educational assessment
 - Psychometrics
