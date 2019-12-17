@@ -29,7 +29,7 @@ role: Applied Researcher
 social:
 - icon: envelope
   icon_pack: fas
-  link: "s.dklerk@explain.nl"
+  link: "mailto:s.dklerk@explain.nl"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Sebasti65886957
