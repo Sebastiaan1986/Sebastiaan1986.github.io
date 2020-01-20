@@ -18,27 +18,54 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Senior research and data scientist"
+  company = "eX:plain"
+  company_url = "https://www.explain.nl/"
+  location = "Amersfoort, The Netherlands"
+  date_start = "2019-01-01"
   date_end = ""
   description = """
+  
+  Research and data science on educational assessment innovations projects within eX:plain
+  
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Data analysis
+  * Research
+  * Innovation
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
+  title = "Test expert"
+  company = "eX:plain"
+  company_url = "https://www.explain.nl/"
+  location = "Amersfoort, The Netherlands"
   date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_end = "2018-12-31"
+  description = """Research and innovation on educational assessment, test development, and test analysis
+  
+  Responsibilities included:
+  
+  * Test analysis
+  * Research
+  * Test development
+    """
+    
+[[experience]]
+  title = "PhD Researcher"
+  company = "eX:plain"
+  company_url = "https://www.explain.nl/"
+  location = "Amersfoort, The Netherlands"
+  date_start = "2011-12-01"
+  date_end = "2015-12-31"
+  description = """PhD research on the use of multimedia within computer-based performance assessment in vocational 
+  education
+  
+  Responsibilities included:
+  
+  * Research design
+  * Data analysis
+  * Publishing
+    """
 
 +++
