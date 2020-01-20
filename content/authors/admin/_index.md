@@ -39,6 +39,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/Sebastiaan1986
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/sebastiaan-de-klerk-ph-d-03a15249/?originalSubdomain=nl
 superuser: true
 user_groups:
 - Researchers
