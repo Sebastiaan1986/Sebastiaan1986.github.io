@@ -25,7 +25,7 @@ organizations:
   url: "http://www.explain.nl"
 - name: Xquiry
   url: "http://www.xquiry.com"
-role: Applied Researcher
+role: Researcher and data scientist
 social:
 - icon: envelope
   icon_pack: fas
@@ -48,5 +48,5 @@ user_groups:
 - Visitors
 ---
 
-My name is Sebastiaan de Klerk, I am an applied researcher at eX:plain and Xquiry. My main 
+My name is Sebastiaan de Klerk, I am a researcher and data scientist at eX:plain and Xquiry. My main 
 research interests are educational assessment, psychometrics, data science, and test fraud detection
