@@ -10,7 +10,7 @@ tags: []
 categories: []
 date: 2015-02-19
 lastmod:
-featured: false
+featured: true
 draft: false
 publication_types: ["2"]
 publication: "In *Computers & Education*"

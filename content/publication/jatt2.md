@@ -9,7 +9,7 @@ tags: []
 categories: []
 date: 2017-10-03
 lastmod: 
-featured: false
+featured: true
 draft: false
 publication_types: ["2"]
 publication: "In *Journal of Applied Testing Technology*"

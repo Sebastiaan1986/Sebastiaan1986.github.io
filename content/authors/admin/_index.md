@@ -49,4 +49,4 @@ user_groups:
 ---
 
 My name is Sebastiaan de Klerk, I am a researcher and data scientist at eX:plain and Xquiry. My main 
-research interests are educational assessment, psychometrics, data science, and test fraud detection
+research interests are educational assessment, psychometrics, data science, and test fraud detection. My full cv can be downloaded trhough this link {{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}.
