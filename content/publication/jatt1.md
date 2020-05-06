@@ -7,7 +7,7 @@ summary: ""
 authors: ["Sebastiaan de Klerk", "Pamela M. Kato"]
 tags: []
 categories: []
-date: 2017-10-3
+date: 2017-10-03
 lastmod:
 featured: false
 draft: false

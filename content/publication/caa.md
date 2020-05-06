@@ -7,7 +7,7 @@ summary: ""
 authors: ["Sebastiaan de Klerk", "Bernard P. Veldkamp", "Theo J.H.M. Eggen"]
 tags: []
 categories: []
-date: 2015-6-22
+date: 2015-06-22
 lastmod:
 featured: false
 draft: false
