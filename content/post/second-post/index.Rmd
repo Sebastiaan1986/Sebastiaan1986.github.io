@@ -1,12 +1,12 @@
 ---
-title: A new website - R markdown
+title: A new website - R Markdown
 author: Sebastiaan de Klerk
 date: '2020-05-07'
 slug: second-post
 categories: []
 tags: []
 subtitle: ''
-summary: ''
+summary: A post in R Markdown
 authors: []
 lastmod: '2020-05-07T22:59:58+02:00'
 featured: no
