@@ -1,0 +1,28 @@
+---
+title: "A new website - R Markdown"
+summary: "A post in R Markdown"
+date: 2020-05-07T21:44:30+02:00
+draft: true
+authors: ["Sebastiaan de Klerk"]
+---
+
+
+
+<p>This website has been created using RStudio, specifically the Blogdown package, that
+can be installed in R using the following piece of code:</p>
+<pre class="r"><code>install.packages(&quot;blogdown&quot;)</code></pre>
+<p>The package can be loaded in the RStudio global environment by using:</p>
+<pre class="r"><code>library(blogdown)</code></pre>
+<p>The nice thing about building websites in R is that the text can be made up in Mmarkdown,
+which allows you to present code, as seen above. You can also give commments with the code,
+like this:</p>
+<pre class="r"><code>1 + 1 # executed</code></pre>
+<pre><code>## [1] 2</code></pre>
+<p>It is important to note that there are two types of Markdown. The regular Markdown does not
+allow any execution of code, while R Markdown does allow execution of code. For example,
+this post has been written in R Markdown, and therefore 1 + 1 will be calculated.
+Based on what you want to display on the website, it is important to decide which type
+of Markdown to use.</p>
+<p>This website is hosted by Netlify, and the files that make up this website are available on
+my GitHub account (<a href="https://www.github.com/Sebastiaan1986" class="uri">https://www.github.com/Sebastiaan1986</a>). The website is powered by
+the Academic theme for Hugo.</p>
