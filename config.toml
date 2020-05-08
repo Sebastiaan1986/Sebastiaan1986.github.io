@@ -16,7 +16,7 @@ baseurl = "https://www.sebastiaandeklerk.com/"
 copyright = ""
 
 #allow commenting
-disqus = "sebastiaandeklerk"
+disqusShortname = "sebastiaandeklerk"
 
 ############################
 ## Advanced options below ##
