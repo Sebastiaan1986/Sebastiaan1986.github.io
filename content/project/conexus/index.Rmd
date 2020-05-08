@@ -1,0 +1,22 @@
+---
+title: Conexus
+date: 2020-05-08T14:49:44+02:00
+slug: conexus
+categories: []
+tags: [Educational assessment]
+subtitle: ''
+summary: A project on building an Entrepreneurship Mindset Tool
+authors: [Sebastiaan de Klerk]
+lastmod: '2020-05-07T22:59:58+02:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+For [Conexus](https://www.conexus.net/) I work as an external advisor on one of their
+products - the Entrepreneurship Mindset Tool. This instrument is a game-based assessment
+used to measure entrepreneurial skills from the European EntreComp Framework. This
+assessment will be mainly deployed in three African countries: Uganda, Tanzania and
+South-Sudan.
