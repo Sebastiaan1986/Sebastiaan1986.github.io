@@ -28,7 +28,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-This website has been created using RStudio, specifically the Blogdown package, that 
+This website has been created using [RStudio](https://www.rstudio.com/), specifically the Blogdown package, that 
 can be installed in R using the following piece of code:
 ```r
 install.packages("blogdown")
@@ -37,7 +37,7 @@ The package can be loaded in the RStudio global environment by using:
 ```r
 library(blogdown)
 ```
-The nice thing about building websites in R is that the text can be made up in Mmarkdown,
+The nice thing about building websites in R is that the text can be made up in Markdown,
 which allows you to present code, as seen above. You can also give commments with the code,
 like this:
 ```r
@@ -47,12 +47,16 @@ It is important to note that there are two types of Markdown. The regular Markdo
 allow any execution of code, while R Markdown does allow execution of code. For example,
 this post has been written in Markdown, and therefore 1 + 1 will not be calculated.
 Based on what you want to display on the website, it is important to decide which type
-of Markdown to use.
+of Markdown to use.In the other post, with almost the same title and content, I have used
+R Markdown in stead of Markdown. You can see the difference in the other post: 1 + 1
+is calculated!
 
-This website is hosted by Netlify, and the files that make up this website are available on
-my GitHub account (https://www.github.com/Sebastiaan1986). The website is powered by
-the Academic theme for Hugo.
+This website is hosted by [Netlify](https://www.netlify.com), and the files that make up this website are available on
+my GitHub [account](https://www.github.com/Sebastiaan1986). The website is powered by
+the Academic theme for Hugo. If you want to build a website in R, a good place to start is
+[here](https://bookdown.org/yihui/blogdown/).
 
+I will use this website to update you about the projects that I am working on!
 
 
 

@@ -22,37 +22,41 @@ date_format = "Jan 2006"
   company = "eX:plain"
   company_url = "https://www.explain.nl/"
   location = "Amersfoort, The Netherlands"
-  date_start = "2019-01-01"
+  date_start = "2018-01-01"
   date_end = ""
   description = """
   
-  Research and data science on educational assessment innovations projects within eX:plain
+ Research, data science, and innovation on educational assessment, 
+  test development, and test analysis
   
   Responsibilities include:
   
-  * Data analysis
+  * Data science
   * Research
   * Innovation
+  * Test development
   """
 
 [[experience]]
-  title = "Test expert"
+  title = "Researcher and data scientist"
   company = "eX:plain"
   company_url = "https://www.explain.nl/"
   location = "Amersfoort, The Netherlands"
   date_start = "2016-01-01"
-  date_end = "2018-12-31"
-  description = """Research and innovation on educational assessment, test development, and test analysis
+  date_end = "2017-12-31"
+  description = """Research, data science, and innovation on educational assessment, 
+  test development, and test analysis
   
   Responsibilities included:
   
-  * Test analysis
+  * Data science
   * Research
+  * Innovation
   * Test development
     """
     
 [[experience]]
-  title = "PhD Researcher"
+  title = "PhD Researcher at the University of Twente"
   company = "eX:plain"
   company_url = "https://www.explain.nl/"
   location = "Amersfoort, The Netherlands"
