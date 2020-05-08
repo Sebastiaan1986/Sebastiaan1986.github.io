@@ -28,5 +28,5 @@ image:
 projects:
 ---
 
-Under the brand "Xquiry" I do research on the prevention and detection of test fraud. Test fraud
+Under the brand [Xquiry](https://www.xquiry.com) I do research on the prevention and detection of test fraud. Test fraud
 is one of the biggest threats to the validity of a test's scores.
