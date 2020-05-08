@@ -25,7 +25,7 @@ organizations:
   url: "http://www.explain.nl"
 - name: Xquiry
   url: "http://www.xquiry.com"
-role: Researcher and data scientist
+role: Senior researcher and data scientist
 social:
 - icon: envelope
   icon_pack: fas
@@ -48,5 +48,5 @@ user_groups:
 - Visitors
 ---
 
-My name is Sebastiaan de Klerk, I am a researcher and data scientist at eX:plain and Xquiry. My main 
-research interests are educational assessment, psychometrics, data science, and test fraud detection. My full cv can be downloaded trhough this link: {{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}.
+My name is Sebastiaan de Klerk, I am a senior researcher and data scientist at eX:plain and Xquiry. My main 
+research interests are educational assessment, psychometrics, data science, and test fraud detection. My full cv can be downloaded trhough this link: {{% staticref "files/cv.pdf" %}}download my cv{{% /staticref %}}.
