@@ -90,11 +90,11 @@ phone = "+31 6 466 012 01"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Disketteweg 6", city = "Amersfoort", region = "UT", postcode = "3821AR", country = "Netherlands", country_code = "NL"}
+address = {street = "", city = "Hoofddorp", region = "NH", postcode = "2134XZ", country = "Netherlands", country_code = "NL"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "52.17351", longitude = "5.40111"}
+coordinates = {latitude = "52.31648", longitude = "4.64645"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
