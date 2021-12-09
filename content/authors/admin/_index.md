@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include educational assessment, psychometrics, data science, and test fraud detection.
+bio: My research interests include educational assessment, psychometrics, data science, and innovative assessment methods.
 education:
   courses:
   - course: PhD in Educational Assessment
@@ -13,23 +13,21 @@ education:
   - course: BSc in Psychology
     institution: University of Amsterdam
     year: 2008
-email: "mailto:s.dklerk@explain.nl"
+email: "mailto:sebastiaandeklerk@hotmail.com"
 interests:
 - Educational assessment
 - Psychometrics
 - Data science
-- Test fraud detection
+- Innovative assessment methods
 name: Sebastiaan de Klerk
 organizations:
-- name: eX:plain
-  url: "http://www.explain.nl"
-- name: Xquiry
-  url: "http://www.xquiry.com"
-role: Senior researcher and data scientist
+- name: Cito
+  url: "http://www.cito.nl"
+role: Senior researcher
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:s.dklerk@explain.nl"
+  link: "mailto:sebastiaandeklerk@hotmail.com"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Sebasti65886957
@@ -48,5 +46,5 @@ user_groups:
 - Visitors
 ---
 
-My name is Sebastiaan de Klerk, I am a senior researcher and data scientist at eX:plain and Xquiry. My main 
-research interests are educational assessment, psychometrics, data science, and test fraud detection. My full cv can be downloaded through this link: {{% staticref "files/cv.pdf" %}}download my cv{{% /staticref %}}.
+My name is Sebastiaan de Klerk, I am a senior researcher at Cito. My main 
+research interests are educational assessment, psychometrics, data science, and innovative assessment methods. My full cv can be downloaded through this link: {{% staticref "files/cv.pdf" %}}download my cv{{% /staticref %}}.
