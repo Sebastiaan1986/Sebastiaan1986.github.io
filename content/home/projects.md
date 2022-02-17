@@ -28,6 +28,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "Educational assessment"
     tag = "Educational assessment"
+    
+  [[content.filter_button]]
+    name = "Educational technology"
+    tag = "Educational technology"
   
   [[content.filter_button]]
     name = "Other"

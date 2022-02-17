@@ -16,6 +16,7 @@ education:
 email: "mailto:sebastiaandeklerk@hotmail.com"
 interests:
 - Educational assessment
+- Educational technology
 - Psychometrics
 - Data science
 - Innovative assessment methods
@@ -27,7 +28,7 @@ role: Senior researcher
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:sebastiaandeklerk@hotmail.com"
+  link: "mailto:sebastiaan.deklerk@cito.nl"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Sebasti65886957
@@ -47,4 +48,4 @@ user_groups:
 ---
 
 My name is Sebastiaan de Klerk, I am a senior researcher at Cito. My main 
-research interests are educational assessment, psychometrics, data science, and innovative assessment methods. My full cv can be downloaded through this link: {{% staticref "files/cv.pdf" %}}download my cv{{% /staticref %}}.
+research interests are educational assessment, educational technology, psychometrics, data science, and innovative assessment methods. My full cv can be downloaded through this link: {{% staticref "files/cv.pdf" %}}download my cv{{% /staticref %}}.
