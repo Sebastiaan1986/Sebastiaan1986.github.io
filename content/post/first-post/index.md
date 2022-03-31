@@ -26,7 +26,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["Educational assessment"]
 ---
 This website has been created using [RStudio](https://www.rstudio.com/), specifically the Blogdown package, that 
 can be installed in R using the following piece of code:
